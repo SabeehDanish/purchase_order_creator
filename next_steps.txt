@@ -1,0 +1,18 @@
+# --- NEXT STEPS (FUTURE DEVELOPMENT) ---
+# 1. Adapt extraction for other quote types (e.g., DandH-Quote-11931304-0.Pdf)
+#    This will likely involve different regex patterns and/or table_areas for camelot.
+#    You might create a function or class that handles different vendor formats.
+
+# 2. Structure Extracted Data: Combine df_line_items and quote_data into a single,
+#    standardized Python object (e.g., a dictionary or custom class) that represents
+#    all the information needed for a PO.
+
+# 3. Generate PO PDF: Use a library like ReportLab or FPDF to programmatically create
+#    a new PO PDF document using the structured data.
+#    This will involve defining the layout (headers, tables, totals, signature lines).
+
+# 4. Implement simple User Interface: Allow users to specify which quote PDF to process.
+#    Could be a simple command-line argument using 'argparse'.
+
+# 5. Add Advanced Validation/AI: As discussed earlier, intelligent validation or
+#    more robust (AI-powered) extraction for highly variable documents.

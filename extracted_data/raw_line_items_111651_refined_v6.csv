@@ -1,0 +1,27 @@
+0,1,2,3,4,5
+,"I/O South, LLC",,,,
+,,,,,Quote
+,"1061 Triad Ct, Ste 2",,,,
+,"Marietta, GA 30062",,,,
+,,,,Date,Quote #
+,770.919.9770,,,,
+,,,,7/16/2025,111651
+,www.iosouth.com,,,,
+Name / Address,,,,,
+Egate,,,,,
+,,,,Rep,Project
+,,,,JG,
+Item,Description,Qty,,Cost,Total
+,HPE ProLiant DL380 Gen10 8SFF CTO Server,,,,
+,2x Intel Xeon-Gold 6240 (2.6GHz/18-Core/24.75MB/150W),,,,
+,384GB RAM (12x HPE 32GB Dual Rank x4 DDR4-2666),,,,
+,HP 96W Smart Storage Battery,,,,
+,2x HP 480GB SATA 6G MIXED USE SFF (2.5IN) SSD,,,,
+,2x HPE 800W Flex Slot Platinum Hot Plug Low Halogen Power,,,,
+,Supply Kit,,,,
+,HPE Ethernet 10Gb 2-port 562FLR-SFP+ Adapter,,,,
+,(This has 2x 1GB onboard port on the board),,,,
+,HP 2U Small Form Factor Easy Install Rail Kit,,,,
+,iLo Advanced installed,,,,
+868703-B21,HPE DL380 G10 8SFF CTO Server,,2,"1,300.00","2,600.00T"
+SRF8X,Intel Xeon-Gold 6240 (2.6GHz/18-Core/24.75MB/150W),,4,0.00,0.00T

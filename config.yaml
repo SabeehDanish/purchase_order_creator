@@ -1,0 +1,45 @@
+# Vendor detection patterns
+vendor_patterns:
+  iosouth:
+    - 'i/o south'
+    - 'iosouth'
+    - '1061 triad ct'
+    - 'marietta, ga'
+  dandh:
+    - 'd&h canada'
+    - 'd&h'
+    - 'belgrave rd'
+    - 'mississauga'
+  tdsynnex:
+    - 'td synnex'
+    - 'synnex'
+    - 'emailquote'
+    - 'email_quote'
+    - 'cpo_'
+  ingram:
+    - 'ingram micro'
+    - 'ingrammicro'
+  techdata:
+    - 'tech data'
+    - 'techdata'
+  arrow:
+    - 'arrow electronics'
+    - 'arrow'
+  avnet:
+    - 'avnet'
+    - 'avnet electronics'
+  wesco:
+    - 'wesco'
+    - 'wesco international'
+  graybar:
+    - 'graybar'
+    - 'graybar electric'
+  anixter:
+    - 'anixter'
+    - 'anixter international'
+
+# Directory paths
+input_dir: "PO's"
+output_dir: "generated_pos"
+
+# Other settings can be added here as needed 

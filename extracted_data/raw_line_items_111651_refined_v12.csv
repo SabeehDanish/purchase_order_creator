@@ -1,0 +1,20 @@
+item_number,description,quantity,unit_price,line_total
+,HPE ProLiant DL380 Gen10 8SFF CTO Server,0.0,0.0,0.0
+,2x Intel Xeon-Gold 6240 (2.6GHz/18-Core/24.75MB/150W),0.0,0.0,0.0
+,384GB RAM (12x HPE 32GB Dual Rank x4 DDR4-2666),0.0,0.0,0.0
+,HP 96W Smart Storage Battery,0.0,0.0,0.0
+,2x HP 480GB SATA 6G MIXED USE SFF (2.5IN) SSD,0.0,0.0,0.0
+,2x HPE 800W Flex Slot Platinum Hot Plug Low Halogen Power,0.0,0.0,0.0
+,Supply Kit,0.0,0.0,0.0
+,HPE Ethernet 10Gb 2-port 562FLR-SFP+ Adapter,0.0,0.0,0.0
+,(This has 2x 1GB onboard port on the board),0.0,0.0,0.0
+,HP 2U Small Form Factor Easy Install Rail Kit,0.0,0.0,0.0
+,iLo Advanced installed,0.0,0.0,0.0
+868703-B21,HPE DL380 G10 8SFF CTO Server,2.0,1300.0,2600.0
+SRF8X,Intel Xeon-Gold 6240 (2.6GHz/18-Core/24.75MB/150W),4.0,0.0,0.0
+815100-B21,HPE 32GB 2RX4 PC4-2666V-R,24.0,0.0,0.0
+804331-B21,HPE Smart Array P408i-a SR Gen10 (8 Internal Lanes/2GB Cache),2.0,0.0,0.0
+,12G SAS Modular Controller,0.0,0.0,0.0
+815983-001,HP 96W Smart Storage Battery,2.0,0.0,0.0
+718138-001,HP 480GB 6G SATA MLC SSD (2.5-inch),4.0,0.0,0.0
+727054-B21,HPE Ethernet 10Gb 2-port 562FLR-SFP+ Adapter,2.0,0.0,0.0

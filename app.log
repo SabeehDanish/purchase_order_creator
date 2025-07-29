@@ -1,0 +1,41 @@
+2025-07-29 11:32:17,308 [INFO] --- Starting PO Extraction and Generation Process ---
+2025-07-29 11:32:17,311 [INFO] Scanning directory: PO's
+2025-07-29 11:32:17,312 [INFO] Found 3 files to process:
+2025-07-29 11:32:17,314 [INFO]   - 111651.pdf
+2025-07-29 11:32:17,319 [INFO]   - DandH-Quote-11931304-0.Pdf
+2025-07-29 11:32:17,320 [INFO]   - email_quote_excel_cpo_42566579.xlsx
+2025-07-29 11:32:17,321 [INFO] 
+2025-07-29 11:32:17,335 [INFO] 
+--- Processing: 111651.pdf ---
+2025-07-29 11:32:17,370 [INFO] --- Intelligent Extraction for iosouth ---
+2025-07-29 11:32:22,770 [INFO] 
+--- Successfully generated new PO: generated_pos\Generated_PO_111651.pdf ---
+2025-07-29 11:35:09,630 [INFO]   Vendor: I/O South, LLC
+2025-07-29 11:35:09,632 [INFO]   PO Number: 111651
+2025-07-29 11:35:09,633 [INFO]   Total: $2600.00 USD
+2025-07-29 11:35:09,634 [INFO]   Line Items: 10
+2025-07-29 11:35:09,638 [INFO] 
+--- Processing: DandH-Quote-11931304-0.Pdf ---
+2025-07-29 11:35:09,646 [INFO] --- Intelligent Extraction for dandh ---
+2025-07-29 11:35:11,107 [INFO] 
+--- Successfully generated new PO: generated_pos\Generated_PO_11931304.pdf ---
+2025-07-29 11:35:11,113 [INFO]   Vendor: D&H Canada
+2025-07-29 11:35:11,113 [INFO]   PO Number: 11931304
+2025-07-29 11:35:11,113 [INFO]   Total: $11094.06 CAD
+2025-07-29 11:35:11,114 [INFO]   Line Items: 1
+2025-07-29 11:35:11,114 [INFO] 
+--- Processing: email_quote_excel_cpo_42566579.xlsx ---
+2025-07-29 11:35:11,118 [INFO] --- Intelligent Extraction for tdsynnex ---
+2025-07-29 11:35:11,462 [INFO] 
+--- Successfully generated new PO: generated_pos\Generated_PO_42566579.pdf ---
+2025-07-29 11:35:11,469 [INFO]   Vendor: TD Synnex
+2025-07-29 11:35:11,469 [INFO]   PO Number: 42566579
+2025-07-29 11:35:11,470 [INFO]   Total: $2435.04 USD
+2025-07-29 11:35:11,470 [INFO]   Line Items: 1
+2025-07-29 11:35:11,470 [INFO] 
+--- Processing Complete ---
+2025-07-29 11:35:11,471 [INFO] Successfully generated: 3 POs
+2025-07-29 11:35:11,471 [INFO] Failed to process: 0 files
+2025-07-29 11:35:11,471 [INFO] Total files processed: 3
+2025-07-29 11:35:11,472 [INFO] 
+Generated POs are saved in: generated_pos

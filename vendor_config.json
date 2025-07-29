@@ -1,0 +1,175 @@
+{
+  "vendors": {
+    "iosouth": {
+      "patterns": ["i/o south", "iosouth", "1061 triad ct", "marietta, ga"],
+      "table_areas": ["0,100,800,600"],
+      "headers": {
+        "item_number": "Item",
+        "description": "Description",
+        "quantity": "Qty",
+        "unit_price": "Cost",
+        "line_total": "Total"
+      },
+      "vendor_info": {
+        "name": "I/O South, LLC",
+        "address": "1061 Triad Ct, Ste 2, Marietta, GA 30062",
+        "phone": "770.919.9770",
+        "website": "www.iosouth.com"
+      }
+    },
+    "dandh": {
+      "patterns": ["d&h canada", "d&h", "belgrave rd", "mississauga"],
+      "table_areas": ["0,200,800,500", "0,150,800,550"],
+      "headers": {
+        "item_number": "Model",
+        "description": "Description",
+        "quantity": "Ord",
+        "unit_price": "Unit",
+        "line_total": "Extended"
+      },
+      "vendor_info": {
+        "name": "D&H Canada",
+        "address": "6370 Belgrave Rd, Mississauga, ON, L5R 0G7, CA",
+        "phone": "1-800-340-1008",
+        "website": "www.dandh.ca"
+      }
+    },
+    "tdsynnex": {
+      "patterns": ["td synnex", "synnex", "emailquote"],
+      "file_type": "csv",
+      "skip_rows": 15,
+      "headers": {
+        "item_number": "Quote Line#",
+        "description": "Description",
+        "quantity": "Qty",
+        "unit_price": "Reseller Price",
+        "line_total": "Ext. Price"
+      },
+      "vendor_info": {
+        "name": "TD Synnex",
+        "address": "TD Synnex Address",
+        "phone": "TD Synnex Phone",
+        "website": "www.tdsynnex.com"
+      }
+    },
+    "ingram": {
+      "patterns": ["ingram micro", "ingrammicro"],
+      "table_areas": ["0,100,800,600"],
+      "headers": {
+        "item_number": "Part Number",
+        "description": "Description",
+        "quantity": "Qty",
+        "unit_price": "Unit Price",
+        "line_total": "Total"
+      },
+      "vendor_info": {
+        "name": "Ingram Micro",
+        "address": "Ingram Micro Address",
+        "phone": "Ingram Micro Phone",
+        "website": "www.ingrammicro.com"
+      }
+    },
+    "techdata": {
+      "patterns": ["tech data", "techdata"],
+      "table_areas": ["0,100,800,600"],
+      "headers": {
+        "item_number": "SKU",
+        "description": "Description",
+        "quantity": "Quantity",
+        "unit_price": "Unit Price",
+        "line_total": "Total"
+      },
+      "vendor_info": {
+        "name": "Tech Data",
+        "address": "Tech Data Address",
+        "phone": "Tech Data Phone",
+        "website": "www.techdata.com"
+      }
+    },
+    "arrow": {
+      "patterns": ["arrow electronics", "arrow"],
+      "table_areas": ["0,100,800,600"],
+      "headers": {
+        "item_number": "Part Number",
+        "description": "Description",
+        "quantity": "Qty",
+        "unit_price": "Unit Price",
+        "line_total": "Total"
+      },
+      "vendor_info": {
+        "name": "Arrow Electronics",
+        "address": "Arrow Electronics Address",
+        "phone": "Arrow Electronics Phone",
+        "website": "www.arrow.com"
+      }
+    },
+    "avnet": {
+      "patterns": ["avnet", "avnet electronics"],
+      "table_areas": ["0,100,800,600"],
+      "headers": {
+        "item_number": "Part Number",
+        "description": "Description",
+        "quantity": "Qty",
+        "unit_price": "Unit Price",
+        "line_total": "Total"
+      },
+      "vendor_info": {
+        "name": "Avnet",
+        "address": "Avnet Address",
+        "phone": "Avnet Phone",
+        "website": "www.avnet.com"
+      }
+    },
+    "wesco": {
+      "patterns": ["wesco", "wesco international"],
+      "table_areas": ["0,100,800,600"],
+      "headers": {
+        "item_number": "Part Number",
+        "description": "Description",
+        "quantity": "Qty",
+        "unit_price": "Unit Price",
+        "line_total": "Total"
+      },
+      "vendor_info": {
+        "name": "Wesco International",
+        "address": "Wesco Address",
+        "phone": "Wesco Phone",
+        "website": "www.wesco.com"
+      }
+    },
+    "graybar": {
+      "patterns": ["graybar", "graybar electric"],
+      "table_areas": ["0,100,800,600"],
+      "headers": {
+        "item_number": "Part Number",
+        "description": "Description",
+        "quantity": "Qty",
+        "unit_price": "Unit Price",
+        "line_total": "Total"
+      },
+      "vendor_info": {
+        "name": "Graybar Electric",
+        "address": "Graybar Address",
+        "phone": "Graybar Phone",
+        "website": "www.graybar.com"
+      }
+    },
+    "anixter": {
+      "patterns": ["anixter", "anixter international"],
+      "table_areas": ["0,100,800,600"],
+      "headers": {
+        "item_number": "Part Number",
+        "description": "Description",
+        "quantity": "Qty",
+        "unit_price": "Unit Price",
+        "line_total": "Total"
+      },
+      "vendor_info": {
+        "name": "Anixter International",
+        "address": "Anixter Address",
+        "phone": "Anixter Phone",
+        "website": "www.anixter.com"
+      }
+    }
+  }
+} 
