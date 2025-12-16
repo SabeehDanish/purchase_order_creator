@@ -6,6 +6,7 @@ An internal automation tool that generates official purchase orders (POs) from p
 The program parses request data, identifies the vendor and key metadata, and automatically populates EGATE’s internal PO template to produce a finalized purchase order.
 
 *Problem*
+
 Creating POs manually required:
 
 - Extracting vendor and item details from requests
@@ -14,6 +15,7 @@ Creating POs manually required:
 - This process was time-consuming and prone to human error.
 
 *Solution*
+
 This tool automates the PO creation workflow by:
 
 - Parsing and normalizing purchase request data
@@ -35,5 +37,6 @@ This tool automates the PO creation workflow by:
 - Improved consistency and accuracy
 - Streamlined internal purchasing workflow
 
-*Notes:*
+*Notes*
+
 All sensitive information and internal EGATE resources have been removed or abstracted for confidentiality.
